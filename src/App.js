@@ -12,7 +12,7 @@ const PORTFOLIO_DATA = {
     location: "Bengaluru, India",
     linkedin: "https://www.linkedin.com/in/rishika-anand-b9646a2a4/",
     github: "https://github.com/rishika118",
-    resumeUrl: "/RESUME_Rishika.pdf" // Add your resume URL here
+    resumeUrl: "RESUME_Rishika.pdf" // Add your resume URL here
   },
   
   about: "I’m a third-year Computer Science student specializing in Data Science, currently building a strong foundation in data analytics, data modeling, and problem solving. I enjoy learning through hands-on projects, coursework, and real-world exposure, and I’m always looking to expand my skill set beyond the classroom.",
