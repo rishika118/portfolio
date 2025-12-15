@@ -146,7 +146,7 @@ const PORTFOLIO_DATA = {
   skills: {
     technical: ["JavaScript", "Python", "Java", "C++", "React", "Node.js", "PHP", "SQL"],
     tools: ["Git", "Jupyter Notebook", "Tableau", "Eclipse IDE", "VS Code", "VMware"],
-    soft: ["Problem Solving", "Team Collaboration", "Agile Methodology", "Communication","Networking"]
+    soft: ["Problem Solving", "Team Collaboration","Leadership", "Communication","Networking"]
   }
 };
 
