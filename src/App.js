@@ -19,7 +19,7 @@ const PORTFOLIO_DATA = {
   
   education: [
     {
-      degree: "Bachelor of Science in CSE - Data Science",
+      degree: "Bachelor of Engineering in CSE - Data Science",
       institution: "New Horizon College of Engineering",
       duration: "2023 - 2027",
       cgpa: "9.2",
